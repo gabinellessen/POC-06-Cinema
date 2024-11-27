@@ -1,0 +1,14 @@
+{
+    "title": "A Forja",
+    "time": "16:40",
+    "description": "Um ano depois de encerrar o ensino médio...",
+    "releaseDate": "26 de setembro de 2024",
+    "director": "Alex Kendrick",
+    "price": 125.00,
+    "seats": [
+      ["available", "available", "unavailable"],
+      ["available", "selected", "available"],
+      ["available", "available", "unavailable"]
+    ]
+  }
+  
