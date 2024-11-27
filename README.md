@@ -17,7 +17,10 @@ O principal objetivo do site é permitir que o usuário escolha os assentos na s
 O projeto inclui uma opção de alternar entre os **modos Dark** e **Claro** para melhorar a experiência do usuário de acordo com sua preferência ou condições de iluminação.
 
 - **Modo claro**: Ideal para ambientes bem iluminados.
+ ![image](https://github.com/user-attachments/assets/0605d95a-91cc-4c4b-b16e-73ba22632231)
+
 - **Modo escuro (Dark Mode)**: Ideal para ambientes com pouca luz, ajudando a reduzir o cansaço visual.
+![image](https://github.com/user-attachments/assets/1e2e6de4-3183-4656-b722-400d9d4d3220)
 
 A alternância entre os modos é feita de forma simples, com um botão que permite ao usuário trocar entre as opções sem precisar recarregar a página.
 
